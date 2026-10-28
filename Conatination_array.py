@@ -7,3 +7,6 @@ def conatination(nums:list[int])->list[int]:
     return ans
 
 print(conatination([1,5,5,8,7,9]))
+
+
+# retuen nums+nums 
